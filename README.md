@@ -1,16 +1,18 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💕
 
-<!--
-**ysaxxx/ysaxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isabele Simoneti
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+### Voce pode entar em contato comigo 📧
+
+isabelepiedade2016@gmail.com
+
+@isinhazk_
+
+![]![image](https://github.com/ysaxxx/ysaxxx/assets/170723444/a2416e4f-9126-47dd-8470-88c9fce9a5d6)
+
